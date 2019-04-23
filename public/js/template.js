@@ -1,6 +1,5 @@
 //Player
 var app = {
-
     playersParametersArray: [{
         height: '600',
         width: '800',
